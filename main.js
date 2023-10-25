@@ -48,6 +48,6 @@ document.querySelector('.som_tecla_tic').onclick = tocaSomTic;
 
 
 function tocaSomTom(){
-    document.querySelector('#stocaSomTom').play();
+    document.querySelector('#som_tecla_Tom').play();
 }
 document.querySelector('.som_tecla_tom').onclick = tocaSomToim;
