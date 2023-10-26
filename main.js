@@ -29,7 +29,7 @@ function tocaSomSplash(){
 document.querySelector('.som_tecla_splash').onclick = tocaSomSplash;
 
 
-function tocaSomtocaSomToim(){
+function tocaSomToim(){
     document.querySelector('#som_tecla_toim').play();
 }
 document.querySelector('.som_tecla_toim').onclick = tocaSomToim;
@@ -48,6 +48,6 @@ document.querySelector('.som_tecla_tic').onclick = tocaSomTic;
 
 
 function tocaSomTom(){
-    document.querySelector('#som_tecla_Tom').play();
+    document.querySelector('#som_tecla_tom').play();
 }
 document.querySelector('.som_tecla_tom').onclick = tocaSomTom;
