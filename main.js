@@ -63,3 +63,9 @@ function tocaSomCafe(){
     document.querySelector('#som_tecla_cafe').play();
 }
 document.querySelector('.som_tecla_cafe').onclick = tocaSomCafe;
+
+
+function tocaSomLovesong(){
+    document.querySelector('#som_tecla_lovesong').play();
+}
+document.querySelector('.som_tecla_lovesongf').onclick = tocaSomLovesong;
