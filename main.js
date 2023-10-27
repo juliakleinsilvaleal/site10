@@ -59,10 +59,10 @@ function tocaSomHariel(){
 document.querySelector('.som_tecla_hariel').onclick = tocaSomHariel;
 
 
-function tocaSomCafe(){
-    document.querySelector('#som_tecla_cafe').play();
+function tocaSomFéourazao(){
+    document.querySelector('#som_tecla_féourazao').play();
 }
-document.querySelector('.som_tecla_cafe').onclick = tocaSomCafe;
+document.querySelector('.som_tecla_féourazao').onclick = tocaSomféourazao;
 
 
 function tocaSomLovesong(){
