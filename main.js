@@ -53,7 +53,13 @@ function tocaSomTom(){
 document.querySelector('.som_tecla_tom').onclick = tocaSomTom;
 
 
-function tocaSomHariel(){
+ tocaSomHariel(){function
     document.querySelector('#som_tecla_hariel').play();
 }
 document.querySelector('.som_tecla_hariel').onclick = tocaSomHariel;
+
+
+tocaSomCafe(){function
+    document.querySelector('#som_tecla_cafe').play();
+}
+document.querySelector('.som_tecla_cafe').onclick = tocaSomCafe;
