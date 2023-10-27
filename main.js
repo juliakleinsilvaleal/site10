@@ -59,19 +59,19 @@ function tocaSomHariel(){
 document.querySelector('.som_tecla_hariel').onclick = tocaSomHariel;
 
 
-function tocaSomFé(){
-    document.querySelector('#som_tecla_fé').play();
+function tocaSomFe(){
+    document.querySelector('#som_tecla_fe').play();
 }
-document.querySelector('.som_tecla_fé').onclick = tocaSomfé;
+document.querySelector('.som_tecla_fe').onclick = tocaSomFe;
 
 
-function tocaSomsong(){
+function tocaSomSong(){
     document.querySelector('#som_tecla_song').play();
 }
-document.querySelector('.som_tecla_song').onclick = tocaSomsong;
+document.querySelector('.som_tecla_song').onclick = tocaSomSong;
 
 
-function tocainsta(){
+function tocaInsta(){
     document.querySelector('#som_tecla_insta').play();
 }
-document.querySelector('.som_tecla_insta').onclick = tocaSominsta;
+document.querySelector('.som_tecla_insta').onclick = tocaSomInsta;
