@@ -51,3 +51,9 @@ function tocaSomTom(){
     document.querySelector('#som_tecla_tom').play();
 }
 document.querySelector('.som_tecla_tom').onclick = tocaSomTom;
+
+
+function tocaSomHariel(){
+    document.querySelector('#som_tecla_hariel').play();
+}
+document.querySelector('.som_tecla_hariel').onclick = tocaSomHariel;
