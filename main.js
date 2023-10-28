@@ -69,9 +69,3 @@ function tocaSomSong(){
     document.querySelector('#som_tecla_song').play();
 }
 document.querySelector('.som_tecla_song').onclick = tocaSomSong;
-
-
-function tocaInsta(){
-    document.querySelector('#som_tecla_insta').play();
-}
-document.querySelector('.som_tecla_insta').onclick = tocaSomInsta;
