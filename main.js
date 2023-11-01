@@ -1,14 +1,14 @@
 
-function tocaSomPom(){
-    document.querySelector('#som_tecla_pom').play();
+function tocaSomGavião(){
+    document.querySelector('#som_tecla_gavião').play();
 }
-document.querySelector('.som_tecla_pom').onclick = tocaSomPom;
+document.querySelector('.som_tecla_gavião').onclick = tocaSomGavião;
 
 
-function tocaSomClap(){
-    document.querySelector('#som_tecla_clap').play();
+function tocaSomNeymar(){
+    document.querySelector('#som_tecla_neymar').play();
 }
-document.querySelector('.som_tecla_clap').onclick = tocaSomClap;
+document.querySelector('.som_tecla_neymar').onclick = tocaSomNeymar;
 
 
 function tocaSomTim(){
